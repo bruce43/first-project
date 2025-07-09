@@ -35,6 +35,7 @@ The system maps user-reported symptoms to known clinical data and provides relev
 ### 📚 Libraries:
 - **NumPy**
 - **Pandas**
+- **Scikit-learn**
 
 ### 💻 Development Environment:
 - **Jupyter Notebook**
